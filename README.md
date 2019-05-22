@@ -1,2 +1,2 @@
-# RRGG - RANDOM RADIO GALAXY GENERATOR
+# RRGG - Random Radio Galaxy Generator
 Random Radio Galaxy Generator
