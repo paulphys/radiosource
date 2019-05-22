@@ -2,6 +2,6 @@
 RRGG generates ................
 
 
-## Requirements
+### Requirements
   * Linux
-## Installation
+### Installation
