@@ -11,3 +11,11 @@
   * Astropy
   * Matplotlib
 ### Installation
+
+```
+pip3 install numpy
+pip3 install astropy
+pip3 install matplotlib
+pip3 install numpy
+python3 -m pip install jupyter
+```
