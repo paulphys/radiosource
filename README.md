@@ -24,7 +24,7 @@ python3 -m pip install jupyter
 ```python
 python executable.py
 ```
-Select the amount of random sources you wish to generate
+Enter the amount of random sources you wish to generate
 ### Important notes
 * use the Jupyter Notebook for ease of operation
 * create a subfolder for the images called 'img'
