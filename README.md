@@ -6,7 +6,7 @@
 
 ### Requirements
   * Python 3.6 or higher
-  * Jupyter Notebook //*recommended*
+  * Jupyter Notebook  // *recommended* but not mandatory
   * Numpy
   * Astropy
   * Matplotlib
