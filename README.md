@@ -25,11 +25,11 @@ python3 -m pip install jupyter
 * create a subfolder for the images called 'img'
 * for post processing fits files i recommend using the [fv FITS Viewer](https://heasarc.gsfc.nasa.gov/ftools/fv/) provided by NASA HEASARC 
 
-###To Do
+### To Do
 - [ ] Automating post processing
 - [ ] Export to img file (tiff,png,jpg)
 - [ ] GUI
 - [ ] Let user change parameter
 
-### Example Images 5x5 Mosaic
+#### Example Images 5x5 Mosaic
 ![mosaik](/mosaik5x5.png) 
