@@ -13,13 +13,18 @@
   * Matplotlib
 ### Installation
 
-```
+```python
 pip3 install numpy
 pip3 install astropy
 pip3 install matplotlib
 pip3 install numpy
 python3 -m pip install jupyter
 ```
+### Usage
+```python
+python executable.py
+```
+Select the amount of random sources you wish to generate
 ### Important notes
 * use the Jupyter Notebook for ease of operation
 * create a subfolder for the images called 'img'
