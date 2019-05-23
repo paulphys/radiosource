@@ -26,3 +26,4 @@ python3 -m pip install jupyter
 * for post processing fits files i recommend using the [fv FITS Viewer](https://heasarc.gsfc.nasa.gov/ftools/fv/) provided by NASA HEASARC 
 
 
+![mosaik](/mosaik5x5.tif) 
