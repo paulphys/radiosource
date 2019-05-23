@@ -21,4 +21,7 @@ pip3 install numpy
 python3 -m pip install jupyter
 ```
 ### Important notes
-I would recommend creating a folder for the created images
+* use the Jupyter Notebook for ease of operation
+* create a subfolder for the images called 'img'
+
+
