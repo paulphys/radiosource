@@ -1,7 +1,7 @@
 # RRGG - Random Radio Galaxy Generator
 ![mosaik](/mosaik.png) 
 
-### ***RRGG*** uses the open-source [Astropy](https://www.astropy.org/) library (A Community Python Library for Astronomy) to generate a pseudorandom radio source of maximum 1000x1000 pixel. It utilizes the Gaussian2D modeling function inside of Astropy to simulate a radio source emitted by a variety of differently shaped galaxies. 
+### ***RRGG*** uses the open-source [Astropy](https://www.astropy.org/) library (A Community Python Library for Astronomy) to generate a pseudorandom radio source of maximum 1000x1000 pixel. It utilizes the Gaussian2D modeling function inside of Astropy to simulate a radio stream emitted by a variety of differently shaped galaxies. 
 #### > *Disclaimer: This is not a scientific simulation but more a proof of concept on generating random radio noise*
 
 
