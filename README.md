@@ -5,5 +5,6 @@
 
 
 ### Requirements
-  * Linux
+  * Numpy
+  * Astropy
 ### Installation
