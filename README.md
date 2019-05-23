@@ -21,9 +21,15 @@ pip3 install numpy
 python3 -m pip install jupyter
 ```
 ### Important notes
-- use the Jupyter Notebook for ease of operation
-- create a subfolder for the images called 'img'
-- for post processing fits files i recommend using the [fv FITS Viewer](https://heasarc.gsfc.nasa.gov/ftools/fv/) provided by NASA HEASARC 
+* use the Jupyter Notebook for ease of operation
+* create a subfolder for the images called 'img'
+* for post processing fits files i recommend using the [fv FITS Viewer](https://heasarc.gsfc.nasa.gov/ftools/fv/) provided by NASA HEASARC 
+
+###To Do
+- [ ] Automating post processing
+- [ ] Export to img file (tiff,png,jpg)
+- [ ] GUI
+- [ ] Let user change parameter
 
 ### Example Images 5x5 Mosaic
 ![mosaik](/mosaik5x5.png) 
