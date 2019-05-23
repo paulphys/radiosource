@@ -29,7 +29,7 @@ python3 -m pip install jupyter
 - [ ] Automate post processing
 - [ ] Export to img file (tiff,png,jpg)
 - [ ] GUI
-- [ ] Let user change parameter
+- [ ] Let user change parameters
 
 #### Example Images 5x5 Mosaic
 ![mosaik](/mosaik5x5.png) 
