@@ -1,5 +1,5 @@
 # RRGG - Random Radio Galaxy Generator
-![](/spec1_cut.png) ![](/spec2_cut.png)
+![](/mosaik.png) 
 
 RRGG generates ................
 
