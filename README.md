@@ -5,6 +5,9 @@
 
 
 ### Requirements
+  * Python 3.6 or higher
+  * Jupyter Notebook (RECOMMENDED)
   * Numpy
   * Astropy
+  * Matplotlib
 ### Installation
