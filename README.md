@@ -41,7 +41,7 @@ Enter the amount of random sources you wish to generate
 * use the Jupyter Notebook for ease of operation
 * create a subfolder for the fits files called 'fits'
 * create a subfolder for the exported image files called 'export'
-* ~~for post processing fits files i recommend using the [fv FITS Viewer](https://heasarc.gsfc.nasa.gov/ftools/fv/) provided by NASA HEASARC 
+* ~~for post processing fits files i recommend using the [fv FITS Viewer](https://heasarc.gsfc.nasa.gov/ftools/fv/) provided by NASA HEASARC~~ 
 
 ### To Do
 - [x] Automate post processing
