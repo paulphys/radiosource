@@ -26,16 +26,28 @@ python3 -m pip install jupyter
 python executable.py
 ```
 Enter the amount of random sources you wish to generate
+
+## Release History
+
+* 0.2.0
+    * ADD: Add `postprocessing.py`Automated post processing with fits coloring and export to image file
+    * CHANGE: Adjusted random range of source from 80 to 50
+    
+* 0.1.0
+    * Work in progress
+    * The first release
+    
 ### Important notes
 * use the Jupyter Notebook for ease of operation
-* create a subfolder for the images called 'img'
-* for post processing fits files i recommend using the [fv FITS Viewer](https://heasarc.gsfc.nasa.gov/ftools/fv/) provided by NASA HEASARC 
+* create a subfolder for the fits files called 'fits'
+* create a subfolder for the exported image files called 'export'
+* ~~for post processing fits files i recommend using the [fv FITS Viewer](https://heasarc.gsfc.nasa.gov/ftools/fv/) provided by NASA HEASARC 
 
 ### To Do
-- [ ] Automate post processing
-- [ ] Export to img file (tiff,png,jpg)
+- [x] Automate post processing
+- [x] Export to img file (tiff,png,jpg)
 - [ ] GUI
 - [ ] Let user change parameters
 
-#### Example Images 5x5 Mosaic
-![mosaik](/mosaik5x5.png) 
+#### Example Images 5x5 Collage
+![collage](/mosaik5x5.png) 
