@@ -49,5 +49,6 @@ Enter the amount of random sources you wish to generate
 - [ ] GUI
 - [ ] Let user change parameters
 
-#### Example Images 5x5 Collage
+#### Example Images 
+![collage](/collage4x3.png) 
 ![collage](/mosaik5x5.png) 
