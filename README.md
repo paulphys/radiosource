@@ -30,7 +30,7 @@ Enter the amount of random sources you wish to generate
 ## Release History
 
 * 0.2.0
-    * ADD: Add `postprocessing.py`Automated post processing with fits coloring and export to image file
+    * ADD: Added `postprocessing.py`Automated post processing with fits coloring and export to image file
     * CHANGE: Adjusted random range of source from 80 to 50
     
 * 0.1.0
