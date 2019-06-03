@@ -25,8 +25,8 @@ python3 -m pip install jupyter
 ```python
 python executable.py
 ```
-*Enter the amount of random sources you wish to generate
-*Done
+* Enter the amount of random sources you wish to generate
+* Done
 
 ## Release History
 * 1.0
