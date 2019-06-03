@@ -1,6 +1,7 @@
 import os
 from astropy.io import fits
 import matplotlib.pyplot as plt
+from PIL import Image
 
 for filename in os.listdir('fits'):
     check = filename[:-5] + '.png'
@@ -22,5 +23,8 @@ for filename in os.listdir('fits'):
 
         export_path = 'export/' + filename[:-5] + '.png'
         plt.savefig(export_path,dpi=250, quality=95)
+
+        img = Image.open(export_path)
+        img.show()
 
 print('Post-Processing Done')
