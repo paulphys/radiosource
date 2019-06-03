@@ -25,9 +25,9 @@ python3 -m pip install jupyter
 ```python
 python executable.py
 ```
-Create folder for the fits files called 'fits'
-Create folder for the exported images called 'export'
-Enter the amount of random sources you wish to generate
+-Create folder for the fits files called 'fits'
+-Create folder for the exported images called 'export'
+-Enter the amount of random sources you wish to generate
 Done
 ## Release History
 
