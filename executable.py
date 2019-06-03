@@ -5,6 +5,7 @@ if not os.path.exists('export/'):
     os.makedirs('export/')
 print('Random Radio Galaxy Generator')
 amount = int(input('How many radio sources do you wish to generate?'))
+print('Generating...')
 for i in range(amount):
     os.system('python generate.py')
 
