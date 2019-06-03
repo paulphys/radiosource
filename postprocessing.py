@@ -10,7 +10,7 @@ for filename in os.listdir('fits'):
         image_data = fits.getdata(path, ext=0)
         plt.grid(b=None)
         plt.figure(frameon=False)
-        plt.imshow(image_data, cmap='magma')
+        plt.imshow(image_data, cmap='bone')
 
         # Remove x,y axis labels
         metadata = plt.gca()
@@ -22,3 +22,5 @@ for filename in os.listdir('fits'):
 
         export_path = 'export/' + filename[:-5] + '.png'
         plt.savefig(export_path,dpi=250, quality=95)
+
+print('Post-Processing Done')
