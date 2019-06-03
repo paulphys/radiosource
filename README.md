@@ -25,13 +25,15 @@ python3 -m pip install jupyter
 ```python
 python executable.py
 ```
+Create folder for the fits files called 'fits'
+Create folder for the exported images called 'export'
 Enter the amount of random sources you wish to generate
-
+Done
 ## Release History
 
 * 0.2.0
     * ADD: Added `postprocessing.py`Automated post processing with fits coloring and export to image file
-    * CHANGE: Adjusted random range of source from 80 to 50
+    * CHANGE: Adjusted random range of x_mean and y_mean from 80 to 50
     
 * 0.1.0
     * Work in progress
