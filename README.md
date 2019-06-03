@@ -29,7 +29,7 @@ python executable.py
 Done
 
 ## Release History
-* 1.0 
+* 1.0
     * proper release
     * ADD: Generated images will now open after processing
 * 0.2.1
