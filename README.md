@@ -25,12 +25,12 @@ python3 -m pip install jupyter
 ```python
 python executable.py
 ```
--Create folder for the fits files called 'fits'
--Create folder for the exported images called 'export'
 -Enter the amount of random sources you wish to generate
 Done
-## Release History
 
+## Release History
+* 0.2.1
+    * ADD: Added ability to automatically make directories for fits files and exported images using 'mkdir'
 * 0.2.0
     * ADD: Added `postprocessing.py`Automated post processing with fits coloring and export to image file
     * CHANGE: Adjusted random range of x_mean and y_mean from 80 to 50
@@ -41,8 +41,6 @@ Done
     
 ### Important notes
 * use the Jupyter Notebook for ease of operation
-* create a subfolder for the fits files called 'fits'
-* create a subfolder for the exported image files called 'export'
 * ~~for post processing fits files i recommend using the [fv FITS Viewer](https://heasarc.gsfc.nasa.gov/ftools/fv/)~~
 
 ### To Do
