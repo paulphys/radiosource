@@ -42,8 +42,7 @@ Enter the amount of random sources you wish to generate
     * The first release
     
 ### Important notes
-* use the Jupyter Notebook for ease of operation
-* ~~for post processing fits files i recommend using the [fv FITS Viewer](https://heasarc.gsfc.nasa.gov/ftools/fv/)~~
+* 
 
 ### To Do
 - [x] Automate post processing
