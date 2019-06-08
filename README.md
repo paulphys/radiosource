@@ -41,8 +41,6 @@ Enter the amount of random sources you wish to generate
     * Work in progress
     * The first release
     
-### Important notes
-* 
 
 ### To Do
 - [x] Automate post processing
