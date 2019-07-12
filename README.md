@@ -6,7 +6,7 @@
 
 
 ### Requirements
-  * Python 3.6 or higher
+  * Python 3
   * Pip
   * Jupyter Notebook  // *recommended* but not mandatory
   * Numpy
