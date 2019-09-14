@@ -22,7 +22,7 @@ python3 -m pip install jupyter
 ```
 ### Usage
 ```python
-python3 rrgg.py -amount of random sources you wish to generate
+python3 rrgg.py -(Amount of random sources you wish to generate)
 ```
 
 
