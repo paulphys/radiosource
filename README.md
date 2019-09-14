@@ -39,7 +39,7 @@ python3 rrgg.py -amount of random sources you wish to generate
     
 * 0.1.0
     * Work in progress
-    * The first release
+    * first release
     
 
 ### To Do
