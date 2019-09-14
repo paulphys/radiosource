@@ -30,7 +30,7 @@ python3 rrgg.py -amount of random sources you wish to generate
 ## Release History
 * 1.0
     * proper release
-    * ADD: Generated images will now open after processing
+    * ADD: pass amount as python script argument
 * 0.2.1
     * ADD: Added ability to automatically make directories for fits files and exported images using *mkdir*
 * 0.2.0
