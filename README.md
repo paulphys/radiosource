@@ -22,9 +22,8 @@ python3 -m pip install jupyter
 ```
 ### Usage
 ```python
-python3 rrgg.py -(Amount of random sources you wish to generate)
+python3 rrgg.py -Amount
 ```
-
 
 
 ## Release History
@@ -46,7 +45,6 @@ python3 rrgg.py -(Amount of random sources you wish to generate)
 - [x] Automate post processing
 - [x] Export to img file (tiff,png,jpg)
 - [ ] GUI
-- [ ] Let user change parameters
 
 #### Example Images 
 ![collage](media/collage4x3.png) 
