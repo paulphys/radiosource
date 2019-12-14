@@ -29,16 +29,9 @@ python3 rrgg.py -Amount
 * 1.0
     * proper release
     * ADD: pass amount as python script argument
-* 0.2.1
-    * ADD: Added ability to automatically make directories for fits files and exported images using *mkdir*
 * 0.2.0
     * ADD: Added `postprocessing.py` Automated post processing with fits coloring and export to image file
     * CHANGE: Adjusted random range of x_mean and y_mean from 80 to 50
-    
-* 0.1.0
-    * Work in progress
-    * first release
-    
 
 ### To Do
 - [x] Automate post processing
