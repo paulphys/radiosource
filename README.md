@@ -1,13 +1,11 @@
 ![mosaik](media/mosaik.png) 
 
-#### ***RRGG*** uses the open-source [Astropy](https://www.astropy.org/) library to generate a pseudorandom radio source of 1000x1000 pixels. It utilizes the Gaussian2D modeling function to simulate a radio stream emitted by a variety of differently shaped galaxies.
+#### ***radiosource*** uses the open-source [Astropy](https://www.astropy.org/) library to generate a pseudorandom radio source of 1000x1000 pixels. It utilizes the Gaussian2D modeling function to simulate a radio stream emitted by a variety of differently shaped galaxies.
 #### > *Disclaimer: This is not a scientific simulation but more a proof of concept on generating random radio sources*
 
 
 ### Requirements
   * Python 3
-  * Pip
-  * Jupyter Notebook  // *recommended* but not mandatory
   * Numpy
   * Astropy
   * Matplotlib
@@ -17,7 +15,6 @@
 pip3 install numpy
 pip3 install astropy
 pip3 install matplotlib
-python3 -m pip install jupyter
 ```
 ### Usage
 ```python
@@ -26,12 +23,15 @@ python3 rrgg.py -Amount
 
 
 ## Release History
-* 1.0
-    * proper release
+* 1.2
     * ADD: pass amount as python script argument
-* 0.2.0
+* 1.1
     * ADD: Added `postprocessing.py` Automated post processing with fits coloring and export to image file
     * CHANGE: Adjusted random range of x_mean and y_mean from 80 to 50
+* 1.0
+    * release
+    
+    
 
 ### To Do
 - [x] Automate post processing
