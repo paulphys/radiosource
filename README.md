@@ -4,7 +4,7 @@
 
 > generate pseudorandom radio sources with [Astropy](https://www.astropy.org/)'s Gaussian2D modeling function
 
-![Astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat) ![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)![Astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat) ![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)
 
 #### > *Disclaimer: This is not a scientific simulation but more a proof of concept on generating random radio sources*
 
