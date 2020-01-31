@@ -7,7 +7,7 @@ def main():
         os.makedirs('export/')
     amount = int(sys.argv[1])
     if amount:
-        print('Random Radio Galaxy Generator')
+        print('Radiosource')
         print('Generating...')
         for i in range(amount):
             os.system('python generate.py')
@@ -16,7 +16,6 @@ def main():
         print('Finished')
     else:
         sys.exit()
-    
 if __name__ == "__main__":
     main()
     
