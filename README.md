@@ -2,7 +2,7 @@
 
 # radiosource
 
-> generate pseudorandom radio sources with [Astropy](https://www.astropy.org/)s Gaussian2D modeling function
+> generate pseudorandom radio sources with [Astropy](https://www.astropy.org/)'s Gaussian2D modeling function
 
 ![Astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat) ![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)
 
@@ -34,7 +34,7 @@ python3 rrgg.py -Amount
     * ADD: Added `postprocessing.py` Automated post processing with fits coloring and export to image file
     * CHANGE: Adjusted random range of x_mean and y_mean from 80 to 50
 * 1.0
-    * release
+    * initial commit
     
     
 
@@ -43,6 +43,6 @@ python3 rrgg.py -Amount
 - [x] Export to img file (tiff,png,jpg)
 - [ ] GUI
 
-#### Example Images 
+#### Example Imagery
 ![collage](media/collage4x3.png) 
 ![collage](media/mosaik5x5.png) 
