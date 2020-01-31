@@ -23,7 +23,7 @@ pip3 install matplotlib
 ```
 ### Usage
 ```python
-python3 rrgg.py -Amount
+python3 radiosource.py -Amount
 ```
 
 
