@@ -1,6 +1,11 @@
 ![mosaik](media/mosaik.png) 
 
-#### **radiosource** uses the open-source [Astropy](https://www.astropy.org/) library to generate a pseudorandom radio source of 1000x1000 pixels. It utilizes the Gaussian2D modeling function to simulate a radio stream emitted by a variety of differently shaped galaxies.
+# radiosource
+
+> generate pseudorandom radio sources with [Astropy](https://www.astropy.org/)s Gaussian2D modeling function
+
+![Astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat) ![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)
+
 #### > *Disclaimer: This is not a scientific simulation but more a proof of concept on generating random radio sources*
 
 
