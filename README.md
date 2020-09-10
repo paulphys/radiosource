@@ -13,10 +13,15 @@
   * Matplotlib
 ### Installation
 
+1. Install dependencies
 ```python
 pip3 install numpy
 pip3 install astropy
 pip3 install matplotlib
+```
+2. Clone the repository
+```sh
+git clone https://github.com/paulhldbrndt/radiousource.git
 ```
 ### Usage
 ```python
