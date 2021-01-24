@@ -2,7 +2,7 @@
 
 # radiosource
 
-> generate pseudorandom radio sources with [Astropy](https://www.astropy.org/)'s Gaussian2D modeling function
+> generate pseudorandom radio sources with a 2-dimensional gaussian modeling function
 
 ![Astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)
 
@@ -21,7 +21,7 @@ pip3 install matplotlib
 ```
 2. Clone the repository
 ```sh
-git clone https://github.com/paulhldbrndt/radiousource.git
+git clone https://github.com/baulml/radiousource.git
 ```
 ### Usage
 ```python
