@@ -21,7 +21,7 @@ pip3 install matplotlib
 ```
 2. Clone the repository
 ```sh
-git clone https://github.com/baulml/radiousource.git
+git clone https://github.com/paulphys/radiousource.git
 ```
 ### Usage
 ```python
